@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    font-family: 'Tahoma';
+    font-size: 14px;
+    padding: 10px;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+h1 {
+    font-size: 24px;
+    font-style: normal;
+    margin-top: 15px;
+    margin-bottom: 15px;  
+}
+
+p {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.vowels {
+    background-color: #FFDB83;
+}
+
+
+.result {
+    background-color: #EBF9DF;
+}
+
+b {
+    background-color: rgb(224, 129, 129);
+}
